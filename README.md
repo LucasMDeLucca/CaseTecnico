@@ -26,7 +26,7 @@ A análise busca responder às seguintes perguntas de negócio:
 
 - **`Case Dados.pdf`** — Documento original com a descrição do case técnico, perguntas de negócio e premissas.  
 - **`analise_case_inss.ipynb`** — Jupyter Notebook contendo o código Python completo da análise (carregamento, limpeza, cálculos, visualizações e respostas).  
-- **`presentation.pdf`** — Apresentação dos resultados e principais insights de negócio obtidos.  
+- **`Apresentacao.pdf`** — Apresentação dos resultados e principais insights de negócio obtidos.  
 - **`README.md`** — Este arquivo, com a descrição do projeto e instruções de reprodução.
 
 ---
