@@ -1,0 +1,38 @@
+# Arquivos de dados Excel
+*.xlsx
+
+# Pasta de dados
+dados/
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos LaTeX temporários
+*.aux
+*.log
+*.out
+*.nav
+*.snm
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
